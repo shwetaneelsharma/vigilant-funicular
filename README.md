@@ -7,7 +7,7 @@ Prerequisites -
 2. I have Chrome 78 and the corresponding Chromedriver https://chromedriver.chromium.org/downloads to run these tests.  
 
 Steps to run -  
-1. Clone the repository.  
+1. Clone the repository using the command `git clone`.  
 2. Open the project in your favorite editor (Eclipse, IntelliJ IDEA).  
 3. To run the traditional tests, right click on the file TraditionalTests.java -> Run As -> TestNG Test (Feel free to use the shortcut when you figure it out).  
 4. Observe that the Chrome browser opens up and all methods annotated as @Test start executing.  
