@@ -3,7 +3,8 @@ This repository primarily contains tests written in two styes viz. using the tra
 
 ## Prerequisites
 1. The path for Chromedriver is set in your system. In ```TradtionalTests.java```, modify the line #41 to reflect the path from your system.
-2. Certified on Chrome 78 and the corresponding Chromedriver https://chromedriver.chromium.org/downloads.
+2. Certified on Chrome 78 and the corresponding Chromedriver https://chromedriver.chromium.org/downloads.  
+3. Ensure TestNG plugin is enabled for your workspace so that you can run them as TestNG test/suite from your IDE, or else you can run them using the command line too.    
 
 ## Steps to run
 1. Clone the repository.
